@@ -7,7 +7,7 @@
         this.name = name;
     }
 }
-public class MainPerson {
+public class Main {
     public static void main (String arr[]){
         Person p = new Person();
         p.setName("ravindar");
